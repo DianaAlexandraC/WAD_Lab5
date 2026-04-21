@@ -101,3 +101,6 @@ edit product
 ![alt text]({5DAA51F6-6148-4E06-8DBC-383FB3037355}.png)
 delete product
 ![alt text]({C410D3C1-0947-4A92-AFDF-EF0B2299AE5B}.png)
+orders
+<img width="1357" height="324" alt="{EDD9B47D-3F47-4B52-AC06-117BBCB3E443}" src="https://github.com/user-attachments/assets/7bddf26c-d419-4e4b-949d-b58bbcbf1105" />
+
