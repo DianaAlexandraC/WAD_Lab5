@@ -76,8 +76,8 @@ frontend/src/
 ├── services/
 │   ├── auth.service.js             login, logout, token/role storage in localStorage, authHeader()
 │   ├── product.service.js          getProducts, createProduct, updateProduct, deleteProduct
-│   ├──cart.service.js              addToCartApi
-│   └── cart.service.js             API calls to place order and see orders 
+│   ├── cart.service.js             addToCartApi
+│   └── order.service.js            API calls to place order and see orders 
 ├── ProtectedRoute.jsx              redirects to /login if not authenticated
 ├── App.jsx                         cart state, auth state, all handlers, routes
 └── App.css                         
